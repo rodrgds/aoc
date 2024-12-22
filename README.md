@@ -2,7 +2,7 @@
 
 [Advent of Code](http://adventofcode.com/) is an annual Advent calendar of small programming puzzles that can be solved in almost anything (be it a programming language, Excel or even Minecraft). Participants are presented with a puzzle each day of December up to and including Christmas Day (December 25th).
 
-This repository contains my solutions to the problems I've solved from Advent of Code, both during the event and outside of it.
+This repository contains my solutions to the problems I've solved from Advent of Code.
 
 ## Solved Problems
 
