@@ -6,6 +6,11 @@ This repository contains my solutions to the problems I've solved from Advent of
 
 ## Solved Problems
 
+### 2025
+| Day | Name | Stars |
+| - | - | - |
+| 01 | [Secret Entrance](https://adventofcode.com/2025/day/1) | ⭐⭐ |
+
 ### 2024
 | Day | Name | Stars |
 | - | - | - |
