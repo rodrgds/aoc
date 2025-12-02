@@ -10,6 +10,7 @@ This repository contains my solutions to the problems I've solved from Advent of
 | Day | Name | Stars |
 | - | - | - |
 | 01 | [Secret Entrance](https://adventofcode.com/2025/day/1) | ⭐⭐ |
+| 02 | [Gift Shop](https://adventofcode.com/2025/day/2) | ⭐⭐ |
 
 ### 2024
 | Day | Name | Stars |
