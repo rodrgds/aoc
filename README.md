@@ -13,6 +13,7 @@ This repository contains my solutions to the problems I've solved from Advent of
 | 02 | [Gift Shop](https://adventofcode.com/2025/day/2) | ⭐⭐ |
 | 03 | [Lobby](https://adventofcode.com/2025/day/3) | ⭐⭐ |
 | 04 | [Printing Department](https://adventofcode.com/2025/day/4) | ⭐⭐ |
+| 05 | [Cafeteria](https://adventofcode.com/2025/day/5) | ⭐⭐ |
 
 ### 2024
 | Day | Name | Stars |
