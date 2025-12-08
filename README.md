@@ -16,6 +16,7 @@ This repository contains my solutions to the problems I've solved from Advent of
 | 05 | [Cafeteria](https://adventofcode.com/2025/day/5) | ⭐⭐ |
 | 06 | [Trash Compactor](https://adventofcode.com/2025/day/6) | ⭐⭐ |
 | 07 | [Laboratories](https://adventofcode.com/2025/day/7) | ⭐⭐ |
+| 08 | [Playground](https://adventofcode.com/2025/day/8) | ⭐⭐ |
 
 ### 2024
 | Day | Name | Stars |
